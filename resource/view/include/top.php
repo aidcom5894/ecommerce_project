@@ -202,7 +202,7 @@
 					<div class="container">
 						<div class="header-left">
 							<a href="index.php" class="logo">
-								<img style="height: 60px;" src="public/assets/images/favicon/logoFrontEnd.png" alt="SuperShop Logo">
+								<img style="height: 60px;" src="public/assets/images/favicon/newLogo.png" alt="Apnah Cart Logo">
 							</a>
 						</div>
 						
