@@ -55,9 +55,9 @@
 							<div class="col-lg-4 col-md-6">
 								<div class="widget">
 									<ul class="contact-info">
-										<li><span class="contact-info-label">Address:</span>Panthapath, Dhaka-1206, Bangladesh</li>
-										<li><span class="contact-info-label">Phone:</span>Toll Free <a href="tel:">(+880) 1316-440504</a></li>
-										<li><span class="contact-info-label">Email:</span> <a href="mailto:mail@example.com">md.aamroni@gmail.com</a></li>
+										<li><span class="contact-info-label">Address:</span>Kanchipuram, Chennai, TamilNadu</li>
+										<li><span class="contact-info-label">Phone:</span>Head Office: <a href="tel:">(+91) 97715-72650</a></li>
+										<li><span class="contact-info-label">Email:</span> <a href="mailto:mail@example.com">support@daecart.com</a></li>
 										<li><span class="contact-info-label">Working Days/Hours:</span>Mon - Sun / 9:00AM - 8:00PM</li>
 									</ul>
 								</div>
@@ -68,7 +68,7 @@
 				<div class="container">
 					<div class="footer-bottom">
 						<p class="footer-copyright mt-1">All Rights Reserved &copy; <?= date('Y') ?> | Developed By 
-							<a href="//aamroni.info" target="_blank"> Md. Abdullah Al Mamun Roni</a>
+							<a href="//aamroni.info" target="_blank"> Chandan</a>
 						</p>
 						<div class="social-icons">
 							<a><img style="height: 33px; padding-left: 16px;" src="public/assets/images/icons/payment (6).png" alt=""></a>
