@@ -1,7 +1,16 @@
 <?php
 ### DATABASE CONFIGURATION
+// $GLOBALS['DBHOST'] = "localhost";
+// $GLOBALS['DBNAME'] = "supershop_rdb";
+// $GLOBALS['DBUSER'] = "root";
+// $GLOBALS['DBPASS'] = "";
+
+
 $GLOBALS['DBHOST'] = "localhost";
-$GLOBALS['DBNAME'] = "supershop_rdb";
-$GLOBALS['DBUSER'] = "root";
-$GLOBALS['DBPASS'] = "";
+$GLOBALS['DBNAME'] = "u445536153_ecomProject";
+$GLOBALS['DBUSER'] = "u445536153_chandan";
+$GLOBALS['DBPASS'] = "Project@2023#@";
+
+
+
 ?>
