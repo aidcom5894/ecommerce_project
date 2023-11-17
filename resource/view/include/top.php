@@ -225,7 +225,7 @@
 						<div class="header-right">
 							<button class="mobile-menu-toggler" type="button"><i class="icon-menu"></i></button>
 							<div class="header-contact"><span>Call us now</span>
-								<a href="tel:#"><strong>+880 1316 440504</strong></a>
+								<a href="tel:#"><strong>+91 97715 72650</strong></a>
 							</div>
 							<div class="dropdown cart-dropdown">
 								<a href="#" class="dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-display="static">
